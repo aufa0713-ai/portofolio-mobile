@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  font-family: "Heebo", sans-serif;
+  box-sizing: border-box;
+}
+
+.text-design {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: red; */
+  width: 70%;
+  font-weight: normal !important;
+}
+
+.line {
+  background-color: #142850;
+  color: #142850;
+  width: 0.5px;
+  height: 20px;
+}
+
+nav {
+  text-align: end;
+  margin-top: 15px;
+  margin-right: 12px;
+}
+#Home {
+  margin-top: 50px;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+button {
+  background-color: #ff6464;
+  color: white;
+  width: 208px;
+  height: 40px;
+  border: 1px solid #ff6464;
+  border-radius: 2px;
+}
+.container h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.box {
+  background-color: #edf7fa;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box1 {
+  background-color: #ffffff;
+  color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+}
+
+.box2 {
+  background-color: #ffffff;
+  color: black;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 10px;
+}
+
+.kontak {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.kontak1 {
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.room {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+
+.btn {
+  background-color: #142850;
+  color: white;
+  width: 62px;
+  height: 25px;
+  border-radius: 16px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  padding: 50px;
+}
+
+.copy {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: -30px;
+  margin-bottom: 60px;
+}
+
+.text-pattern {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: red; */
+  width: 70%;
+  font-weight: normal !important;
+}
+
+.garis {
+  background-color: #142850;
+  color: #142850;
+  width: 0.5px;
+  height: 20px;
+}
+
